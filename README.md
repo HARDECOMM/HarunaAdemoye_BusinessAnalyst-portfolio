@@ -35,6 +35,7 @@
 ---
 
 ## 👤 Analyst Information
+<h2 id="analyst-information">👤 Analyst Information</h2>
 - **Name:** Haruna Ademoye  
 - **Role:** Business Analyst  
 - **Project Type:** Retail Business Performance Analysis  
@@ -42,7 +43,7 @@
 
 ---
 
-## 📌 Executive Summary
+<h2 id="executive-summary">📌 Executive Summary</h2>
 Prime Mart Lagos operates three retail stores located in Ikeja, Lekki, and Yaba.  
 
 Management has observed:  
@@ -55,7 +56,7 @@ This project analyzes business operations, identifies performance issues, and pr
 
 ---
 
-## 🧠 Business Problem
+<h2 id="business-problem">🧠 Business Problem</h2>
 Management is facing the following key challenges:  
 - Inconsistent revenue across stores  
 - Increasing operating expenses  
@@ -66,7 +67,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## 🎯 Business Objectives
+<h2 id="business-objectives">🎯 Business Objectives</h2>
 | Objective | Business Purpose |
 |----------|------------------|
 | Analyze revenue and profit performance | Identify best and worst performing stores |
@@ -78,7 +79,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## ❓ Key Business Questions
+<h2 id="key-business-questions">❓ Key Business Questions</h2>
 | Business Objective | Example Question |
 |-------------------|----------------|
 | Analyze revenue and profit performance | Which store generates the highest revenue and profit? |
@@ -90,7 +91,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## 📊 Dataset Description
+<h2 id="dataset-description">📊 Dataset Description</h2>
 | Dataset | Description | Business Purpose |
 |--------|-------------|----------------|
 | Sales | Transaction-level sales records | Revenue and profit analysis |
@@ -101,12 +102,12 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## ⛪ Data Structure and Mapping
+<h2 id="data-structure-and-mapping">⛪ Data Structure and Mapping</h2>
 
-### 🔗 Data Model Design
+<h3 id="data-model-design">🔗 Data Model Design</h3>
 The project uses a **Star Schema Model**, standard in Business Intelligence analytics.
 
-### ⭐ Fact Table
+<h3 id="fact-table">⭐ Fact Table</h3>
 **Sales Table** – central table containing measurable business events.  
 Key metrics:  
 - Revenue  
@@ -114,13 +115,13 @@ Key metrics:
 - Profit  
 - Quantity Sold  
 
-### 📐 Dimension Tables
+<h3 id="dimension-tables">📐 Dimension Tables</h3>
 - **Customers**: Customer ID, Customer Segment  
 - **Inventory**: Product ID, Product Name, Category, Stock Level  
 - **Expenses**: Store ID, Operating Expenses  
 - **Date**: Date, Month, Quarter, Year  
 
-### 🔄 Table Relationships
+<h3 id="table-relationships">🔄 Table Relationships</h3>
 | From | To | Relationship |
 |-----|----|--------------|
 | Sales | Customers | customer_id |
@@ -128,7 +129,7 @@ Key metrics:
 | Sales | Expenses | store_id |
 | Sales | Date | date |
 
-### 🎯 Business Value of Data Model
+<h3 id="business-value-of-data-model">🎯 Business Value of Data Model</h3>
 - Accurate KPI calculation  
 - Efficient dashboard development  
 - Scalable business analysis  
@@ -136,7 +137,7 @@ Key metrics:
 
 ---
 
-## 🔧 Data Preparation Process
+<h2 id="data-preparation-process">🔧 Data Preparation Process</h2>
 Data cleaning and preparation were performed using Excel:  
 - Removed duplicates  
 - Handled missing values  
@@ -148,7 +149,7 @@ Data cleaning and preparation were performed using Excel:
 
 ---
 
-## 📈 KPI Development
+<h2 id="kpi-development">📈 KPI Development</h2>
 KPIs created include:  
 - Total Revenue  
 - Total Profit  
@@ -160,7 +161,7 @@ KPIs created include:
 
 ---
 
-## 📊 KPI Results Summary
+<h2 id="kpi-results-summary">📊 KPI Results Summary</h2>
 | KPI | Result |
 |-----|--------|
 | Total Revenue | ₦ |
@@ -171,7 +172,7 @@ KPIs created include:
 
 ---
 
-## 📊 Data Analysis Method
+<h2 id="data-analysis-method">📊 Data Analysis Method</h2>
 Analysis performed using Excel:  
 - Pivot Tables  
 - Pivot Charts  
@@ -188,14 +189,14 @@ Power BI (planned) for interactive dashboards.
 
 ---
 
-## 📉 Key Insights
+<h2 id="key-insights">📉 Key Insights</h2>
 - Insight 1: …  
 - Insight 2: …  
 - Insight 3: …  
 
 ---
 
-## 💡 Business Recommendations
+<h2 id="business-recommendations">💡 Business Recommendations</h2>
 **Recommendation 1:** Improve Inventory Management  
 - Increase stock levels for fast-selling products  
 - *Expected impact:* Reduce stockouts, increase revenue  
@@ -214,7 +215,7 @@ Power BI (planned) for interactive dashboards.
 
 ---
 
-## 📊 Dashboard
+<h2 id="dashboard">📊 Dashboard</h2>
 Excel dashboard includes:  
 - Revenue Overview  
 - Profit Overview  
@@ -226,7 +227,7 @@ File Location: `/dashboard/dashboard.xlsx`
 
 ---
 
-## 📁 Project Files Structure
+<h2 id="project-files-structure">📁 Project Files Structure</h2>
 
 ``
 Prime-Mart-Analysis/
@@ -240,7 +241,7 @@ Prime-Mart-Analysis/
 ``
 ---
 
-## 🧠 Business Analyst Skills Demonstrated
+<h2 id="business-analyst-skills-demonstrated">🧠 Business Analyst Skills Demonstrated</h2>
 - Problem Definition  
 - KPI Development  
 - Insight Generation  
@@ -252,7 +253,7 @@ Prime-Mart-Analysis/
 
 ---
 
-## 💼 Business Value Delivered
+<h2 id="business-value-delivered">💼 Business Value Delivered</h2>
 - Visibility into revenue and profit performance across stores  
 - Identification of high-performing and underperforming areas  
 - Highlighted operational inefficiencies  
@@ -260,7 +261,7 @@ Prime-Mart-Analysis/
 
 ---
 
-## 🎯 Project Outcome
+<h2 id="project-outcome">🎯 Project Outcome</h2>
 - Analyze business data effectively  
 - Build dashboards  
 - Generate actionable insights  
@@ -268,12 +269,12 @@ Prime-Mart-Analysis/
 
 ---
 
-## 📌 Portfolio Purpose
+<h2 id="portfolio-purpose">📌 Portfolio Purpose</h2>
 Demonstrates readiness for Business Analyst roles with practical retail business scenario analysis.
 
 ---
 
-## 📬 Contact Information
+<h2 id="contact-information">📬 Contact Information</h2>
 **Haruna Ademoye**  
 - GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
