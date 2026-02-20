@@ -19,62 +19,6 @@
 17. [Portfolio Purpose](#portfolio-purpose)
 18. [Contact](#contact)
 
----
-
-## Executive Summary
-<!-- Content for Executive Summary -->
-
-## Business Problem
-<!-- Content for Business Problem -->
-
-## Objectives
-<!-- Content for Objectives -->
-
-## Business Questions
-<!-- Content for Business Questions -->
-
-## Dataset Description
-<!-- Content for Dataset Description -->
-
-## Data Structure and Mapping
-<!-- Content for Data Structure and Mapping -->
-
-## Data Preparation
-<!-- Content for Data Preparation -->
-
-## KPI Development
-<!-- Content for KPI Development -->
-
-## Data Analysis
-<!-- Content for Data Analysis -->
-
-## Insights
-<!-- Content for Insights -->
-
-## Recommendations
-<!-- Content for Recommendations -->
-
-## Dashboard
-<!-- Content for Dashboard -->
-
-## Project Files
-<!-- Content for Project Files -->
-
-## Skills Demonstrated
-<!-- Content for Skills Demonstrated -->
-
-## Business Value
-<!-- Content for Business Value -->
-
-## Project Outcome
-<!-- Content for Project Outcome -->
-
-## Portfolio Purpose
-<!-- Content for Portfolio Purpose -->
-
-## Contact
-<!-- Content for Contact -->
-
 
 # Business Analyst Portfolio Project  
 # Prime Mart Lagos – Business Performance Analysis
