@@ -29,7 +29,7 @@
 ---
 <!-- Content for Executive Summary -->
 
-<!-- ## 👤 Analyst Information -->
+## 👤 Analyst Information
 - **Name:** Haruna Ademoye  
 - **Role:** Business Analyst  
 - **Project Type:** Retail Business Performance Analysis  
