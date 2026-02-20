@@ -252,15 +252,16 @@ Excel dashboard includes:
 
 <h2 id="project-files-structure">📁 Project Files Structure <a href="#project-files-structure">🔗</a></h2>
 
-``
+```
 Prime-Mart-Analysis/
 ├── README.md
 ├── data/
-│ └── dataset.xlsx
+│   └── dataset.xlsx
 ├── dashboard/
-│ ├── dashboard.xlsx
-│ └── dashboard.png
-``
+│   ├── dashboard.xlsx
+│   └── dashboard.png
+
+```
 ---
 
 <h2 id="business-analyst-skills-demonstrated">🧠 Business Analyst Skills Demonstrated <a href="#business-analyst-skills-demonstrated">🔗</a></h2>
