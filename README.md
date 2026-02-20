@@ -34,7 +34,7 @@
 
 ---
 
-<h2 id="analyst-information">👤 Analyst Information</h2>
+## 👤 Analyst Information
 - **Name:** Haruna Ademoye  
 - **Role:** Business Analyst  
 - **Project Type:** Retail Business Performance Analysis  
@@ -42,7 +42,7 @@
 
 ---
 
-<h2 id="executive-summary">📌 Executive Summary</h2>
+## 📌 Executive Summary
 Prime Mart Lagos operates three retail stores located in Ikeja, Lekki, and Yaba.  
 
 Management has observed:  
@@ -55,9 +55,8 @@ This project analyzes business operations, identifies performance issues, and pr
 
 ---
 
-<h2 id="business-problem">🧠 Business Problem</h2>
+## 🧠 Business Problem
 Management is facing the following key challenges:  
-
 - Inconsistent revenue across stores  
 - Increasing operating expenses  
 - Frequent stockouts of fast-moving products  
@@ -67,7 +66,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-<h2 id="business-objectives">🎯 Business Objectives</h2>
+## 🎯 Business Objectives
 | Objective | Business Purpose |
 |----------|------------------|
 | Analyze revenue and profit performance | Identify best and worst performing stores |
@@ -79,7 +78,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-<h2 id="key-business-questions">❓ Key Business Questions</h2>
+## ❓ Key Business Questions
 | Business Objective | Example Question |
 |-------------------|----------------|
 | Analyze revenue and profit performance | Which store generates the highest revenue and profit? |
@@ -91,7 +90,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-<h2 id="dataset-description">📊 Dataset Description</h2>
+## 📊 Dataset Description
 | Dataset | Description | Business Purpose |
 |--------|-------------|----------------|
 | Sales | Transaction-level sales records | Revenue and profit analysis |
@@ -102,12 +101,12 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-<h2 id="data-structure-and-mapping">⛪ Data Structure and Mapping</h2>
+## ⛪ Data Structure and Mapping
 
-<h3 id="data-model-design">🔗 Data Model Design</h3>
+### 🔗 Data Model Design
 The project uses a **Star Schema Model**, standard in Business Intelligence analytics.
 
-<h3 id="fact-table">⭐ Fact Table</h3>
+### ⭐ Fact Table
 **Sales Table** – central table containing measurable business events.  
 Key metrics:  
 - Revenue  
@@ -115,13 +114,13 @@ Key metrics:
 - Profit  
 - Quantity Sold  
 
-<h3 id="dimension-tables">📐 Dimension Tables</h3>
+### 📐 Dimension Tables
 - **Customers**: Customer ID, Customer Segment  
 - **Inventory**: Product ID, Product Name, Category, Stock Level  
 - **Expenses**: Store ID, Operating Expenses  
 - **Date**: Date, Month, Quarter, Year  
 
-<h3 id="table-relationships">🔄 Table Relationships</h3>
+### 🔄 Table Relationships
 | From | To | Relationship |
 |-----|----|--------------|
 | Sales | Customers | customer_id |
@@ -129,7 +128,7 @@ Key metrics:
 | Sales | Expenses | store_id |
 | Sales | Date | date |
 
-<h3 id="business-value-of-data-model">🎯 Business Value of Data Model</h3>
+### 🎯 Business Value of Data Model
 - Accurate KPI calculation  
 - Efficient dashboard development  
 - Scalable business analysis  
@@ -137,9 +136,8 @@ Key metrics:
 
 ---
 
-<h2 id="data-preparation-process">🔧 Data Preparation Process</h2>
+## 🔧 Data Preparation Process
 Data cleaning and preparation were performed using Excel:  
-
 - Removed duplicates  
 - Handled missing values  
 - Standardized store names  
@@ -150,9 +148,8 @@ Data cleaning and preparation were performed using Excel:
 
 ---
 
-<h2 id="kpi-development">📈 KPI Development</h2>
+## 📈 KPI Development
 KPIs created include:  
-
 - Total Revenue  
 - Total Profit  
 - Profit Margin  
@@ -163,7 +160,7 @@ KPIs created include:
 
 ---
 
-<h2 id="kpi-results-summary">📊 KPI Results Summary</h2>
+## 📊 KPI Results Summary
 | KPI | Result |
 |-----|--------|
 | Total Revenue | ₦ |
@@ -174,9 +171,8 @@ KPIs created include:
 
 ---
 
-<h2 id="data-analysis-method">📊 Data Analysis Method</h2>
+## 📊 Data Analysis Method
 Analysis performed using Excel:  
-
 - Pivot Tables  
 - Pivot Charts  
 - Dashboard  
@@ -192,14 +188,14 @@ Power BI (planned) for interactive dashboards.
 
 ---
 
-<h2 id="key-insights">📉 Key Insights</h2>
+## 📉 Key Insights
 - Insight 1: …  
 - Insight 2: …  
 - Insight 3: …  
 
 ---
 
-<h2 id="business-recommendations">💡 Business Recommendations</h2>
+## 💡 Business Recommendations
 **Recommendation 1:** Improve Inventory Management  
 - Increase stock levels for fast-selling products  
 - *Expected impact:* Reduce stockouts, increase revenue  
@@ -218,9 +214,8 @@ Power BI (planned) for interactive dashboards.
 
 ---
 
-<h2 id="dashboard">📊 Dashboard</h2>
+## 📊 Dashboard
 Excel dashboard includes:  
-
 - Revenue Overview  
 - Profit Overview  
 - Store Performance  
@@ -231,7 +226,8 @@ File Location: `/dashboard/dashboard.xlsx`
 
 ---
 
-<h2 id="project-files-structure">📁 Project Files Structure</h2>
+## 📁 Project Files Structure
+
 ``
 Prime-Mart-Analysis/
 ├── README.md
@@ -242,11 +238,9 @@ Prime-Mart-Analysis/
 │ └── dashboard.png
 
 ``
-
-
 ---
 
-<h2 id="business-analyst-skills-demonstrated">🧠 Business Analyst Skills Demonstrated</h2>
+## 🧠 Business Analyst Skills Demonstrated
 - Problem Definition  
 - KPI Development  
 - Insight Generation  
@@ -258,7 +252,7 @@ Prime-Mart-Analysis/
 
 ---
 
-<h2 id="business-value-delivered">💼 Business Value Delivered</h2>
+## 💼 Business Value Delivered
 - Visibility into revenue and profit performance across stores  
 - Identification of high-performing and underperforming areas  
 - Highlighted operational inefficiencies  
@@ -266,7 +260,7 @@ Prime-Mart-Analysis/
 
 ---
 
-<h2 id="project-outcome">🎯 Project Outcome</h2>
+## 🎯 Project Outcome
 - Analyze business data effectively  
 - Build dashboards  
 - Generate actionable insights  
@@ -274,13 +268,13 @@ Prime-Mart-Analysis/
 
 ---
 
-<h2 id="portfolio-purpose">📌 Portfolio Purpose</h2>
+## 📌 Portfolio Purpose
 Demonstrates readiness for Business Analyst roles with practical retail business scenario analysis.
 
 ---
 
-<h2 id="contact-information">📬 Contact Information</h2>
+## 📬 Contact Information
 **Haruna Ademoye**  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - Email: your@email.com
