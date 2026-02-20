@@ -2,7 +2,7 @@
 
 Showcase of Business Analysis Core Responsibility
 
-[View the Project on GitHub](https://github.com/HARDECOMM/HarunaAdemoye_BusinessAnalyst-portfolio)
+[View the Project on GitHub](#)
 
 ---
 
@@ -14,31 +14,31 @@ Showcase of Business Analysis Core Responsibility
 
 ## 📑 Table of Contents
 
-1. [Analyst Information](#analyst-information)
-2. [Executive Summary](#executive-summary)
-3. [Business Problem](#business-problem)
-4. [Business Objectives](#business-objectives)
-5. [Key Business Questions](#key-business-questions)
-6. [Dataset Description](#dataset-description)
-7. [Data Structure and Mapping](#data-structure-and-mapping)
-8. [Business Value of Data Model](#business-value-of-data-model)
-9. [Data Preparation Process](#data-preparation-process)
-10. [KPI Development](#kpi-development)
-11. [KPI Results Summary](#kpi-results-summary)
-12. [Data Analysis Method](#data-analysis-method)
-13. [Key Insights](#key-insights)
-14. [Business Recommendations](#business-recommendations)
-15. [Dashboard](#dashboard)
-16. [Project Files Structure](#project-files-structure)
-17. [Business Analyst Skills Demonstrated](#business-analyst-skills-demonstrated)
-18. [Business Value Delivered](#business-value-delivered)
-19. [Project Outcome](#project-outcome)
-20. [Portfolio Purpose](#portfolio-purpose)
-21. [Contact Information](#contact-information)
+1. [Analyst Information](#analyst-information) ←
+2. [Executive Summary](#executive-summary) ←
+3. [Business Problem](#business-problem) ←
+4. [Business Objectives](#business-objectives) ←
+5. [Key Business Questions](#key-business-questions) ←
+6. [Dataset Description](#dataset-description) ←
+7. [Data Structure and Mapping](#data-structure-and-mapping) ←
+8. [Business Value of Data Model](#business-value-of-data-model) ←
+9. [Data Preparation Process](#data-preparation-process) ←
+10. [KPI Development](#kpi-development) ←
+11. [KPI Results Summary](#kpi-results-summary) ←
+12. [Data Analysis Method](#data-analysis-method) ←
+13. [Key Insights](#key-insights) ←
+14. [Business Recommendations](#business-recommendations) ←
+15. [Dashboard](#dashboard) ←
+16. [Project Files Structure](#project-files-structure) ←
+17. [Business Analyst Skills Demonstrated](#business-analyst-skills-demonstrated) ←
+18. [Business Value Delivered](#business-value-delivered) ←
+19. [Project Outcome](#project-outcome) ←
+20. [Portfolio Purpose](#portfolio-purpose) ←
+21. [Contact Information](#contact-information) ←
 
 ---
 
-## 👤 Analyst Information
+<h2 id="analyst-information">👤 Analyst Information <a href="#analyst-information">🔗</a></h2>
 
 - **Name:** Haruna Ademoye  
 - **Role:** Business Analyst  
@@ -47,7 +47,7 @@ Showcase of Business Analysis Core Responsibility
 
 ---
 
-## 📌 Executive Summary
+<h2 id="executive-summary">📌 Executive Summary <a href="#executive-summary">🔗</a></h2>
 
 Prime Mart Lagos operates three retail stores located in Ikeja, Lekki, and Yaba.  
 
@@ -61,7 +61,7 @@ This project analyzes business operations, identifies performance issues, and pr
 
 ---
 
-## 🧠 Business Problem
+<h2 id="business-problem">🧠 Business Problem <a href="#business-problem">🔗</a></h2>
 
 Management is facing the following key challenges:
 - Inconsistent revenue across stores
@@ -73,7 +73,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## 🎯 Business Objectives
+<h2 id="business-objectives">🎯 Business Objectives <a href="#business-objectives">🔗</a></h2>
 
 | Objective                                           | Business Purpose                                  |
 |----------------------------------------------------|--------------------------------------------------|
@@ -86,7 +86,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## ❓ Key Business Questions
+<h2 id="key-business-questions">❓ Key Business Questions <a href="#key-business-questions">🔗</a></h2>
 
 | Business Objective                              | Example Question                                                         |
 |------------------------------------------------|-------------------------------------------------------------------------|
@@ -99,7 +99,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## 📊 Dataset Description
+<h2 id="dataset-description">📊 Dataset Description <a href="#dataset-description">🔗</a></h2>
 
 | Dataset          | Description                       | Business Purpose                    |
 |------------------|-----------------------------------|-------------------------------------|
@@ -111,7 +111,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## ⛪ Data Structure and Mapping
+<h2 id="data-structure-and-mapping">⛪ Data Structure and Mapping <a href="#data-structure-and-mapping">🔗</a></h2>
 
 ### 🔗 Data Model Design
 
@@ -144,7 +144,7 @@ The project uses a **Star Schema Model**, standard in Business Intelligence anal
 
 ---
 
-## 🎯 Business Value of Data Model
+<h2 id="business-value-of-data-model">🎯 Business Value of Data Model <a href="#business-value-of-data-model">🔗</a></h2>
 
 - Accurate KPI calculation
 - Efficient dashboard development
@@ -153,7 +153,7 @@ The project uses a **Star Schema Model**, standard in Business Intelligence anal
 
 ---
 
-## 🔧 Data Preparation Process
+<h2 id="data-preparation-process">🔧 Data Preparation Process <a href="#data-preparation-process">🔗</a></h2>
 
 Data cleaning and preparation were performed using Excel:
 - Removed duplicates
@@ -166,7 +166,7 @@ Data cleaning and preparation were performed using Excel:
 
 ---
 
-## 📈 KPI Development
+<h2 id="kpi-development">📈 KPI Development <a href="#kpi-development">🔗</a></h2>
 
 KPIs created include:
 - Total Revenue
@@ -179,7 +179,7 @@ KPIs created include:
 
 ---
 
-## 📊 KPI Results Summary
+<h2 id="kpi-results-summary">📊 KPI Results Summary <a href="#kpi-results-summary">🔗</a></h2>
 
 | KPI              | Result |
 |------------------|--------|
@@ -191,7 +191,7 @@ KPIs created include:
 
 ---
 
-## 📊 Data Analysis Method
+<h2 id="data-analysis-method">📊 Data Analysis Method <a href="#data-analysis-method">🔗</a></h2>
 
 Analysis performed using Excel:
 - Pivot Tables
@@ -209,7 +209,7 @@ Analysis performed using Excel:
 
 ---
 
-## 📉 Key Insights
+<h2 id="key-insights">📉 Key Insights <a href="#key-insights">🔗</a></h2>
 
 - Insight 1: …
 - Insight 2: …
@@ -217,7 +217,7 @@ Analysis performed using Excel:
 
 ---
 
-## 💡 Business Recommendations
+<h2 id="business-recommendations">💡 Business Recommendations <a href="#business-recommendations">🔗</a></h2>
 
 **Recommendation 1:** Improve Inventory Management
 - Increase stock levels for fast-selling products
@@ -237,7 +237,7 @@ Analysis performed using Excel:
 
 ---
 
-## 📊 Dashboard
+<h2 id="dashboard">📊 Dashboard <a href="#dashboard">🔗</a></h2>
 
 Excel dashboard includes:
 - Revenue Overview
@@ -250,7 +250,7 @@ Excel dashboard includes:
 
 ---
 
-## 📁 Project Files Structure
+<h2 id="project-files-structure">📁 Project Files Structure <a href="#project-files-structure">🔗</a></h2>
 
 ``
 Prime-Mart-Analysis/
@@ -260,12 +260,10 @@ Prime-Mart-Analysis/
 ├── dashboard/
 │ ├── dashboard.xlsx
 │ └── dashboard.png
-
 ``
-
 ---
 
-## 🧠 Business Analyst Skills Demonstrated
+<h2 id="business-analyst-skills-demonstrated">🧠 Business Analyst Skills Demonstrated <a href="#business-analyst-skills-demonstrated">🔗</a></h2>
 
 - Problem Definition
 - KPI Development
@@ -278,7 +276,7 @@ Prime-Mart-Analysis/
 
 ---
 
-## 💼 Business Value Delivered
+<h2 id="business-value-delivered">💼 Business Value Delivered <a href="#business-value-delivered">🔗</a></h2>
 
 - Visibility into revenue and profit performance across stores
 - Identification of high-performing and underperforming areas
@@ -287,7 +285,7 @@ Prime-Mart-Analysis/
 
 ---
 
-## 🎯 Project Outcome
+<h2 id="project-outcome">🎯 Project Outcome <a href="#project-outcome">🔗</a></h2>
 
 - Analyze business data effectively
 - Build dashboards
@@ -296,15 +294,15 @@ Prime-Mart-Analysis/
 
 ---
 
-## 📌 Portfolio Purpose
+<h2 id="portfolio-purpose">📌 Portfolio Purpose <a href="#portfolio-purpose">🔗</a></h2>
 
 Demonstrates readiness for Business Analyst roles with practical retail business scenario analysis.
 
 ---
 
-## 📬 Contact Information
+<h2 id="contact-information">📬 Contact Information <a href="#contact-information">🔗</a></h2>
 
 **Haruna Ademoye**  
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- GitHub: [https://github.com/yourusername]  
+- LinkedIn: [https://linkedin.com/in/yourprofile]  
 - Email: your@email.com
