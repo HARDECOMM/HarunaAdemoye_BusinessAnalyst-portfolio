@@ -1,443 +1,209 @@
-# ✅ FINAL STRUCTURE WILL LOOK LIKE THIS
-
-1. [Executive Summary](#executive-summary)
-2. [Business Problem](#business-problem)
-3. [Objectives](#objectives)
-4. [Business Questions](#business-questions)
-5. [Dataset Description](#dataset-description)
-6. [Data Structure and Mapping](#data-structure-and-mapping)
-7. [Data Preparation](#data-preparation)
-8. [KPI Development](#kpi-development)
-9. [Data Analysis](#data-analysis)
-10. [Insights](#insights)
-11. [Recommendations](#recommendations)
-12. [Dashboard](#dashboard)
-13. [Project Files](#project-files)
-14. [Skills Demonstrated](#skills-demonstrated)
-15. [Business Value](#business-value)
-16. [Project Outcome](#project-outcome)
-17. [Portfolio Purpose](#portfolio-purpose)
-18. [Contact](#contact)
-
-
-# Business Analyst Portfolio Project  
 # Prime Mart Lagos – Business Performance Analysis
 
----
+⭐ This project demonstrates an end-to-end Business Analyst workflow using Microsoft Excel and Power BI, from business problem definition to dashboard visualization and business recommendations.
+
+## 📑 Table of Contents
+1. [Executive Summary](#executive-summary)
+2. [Business Problem](#business-problem)
+3. [Business Objectives](#business-objectives)
+4. [Key Business Questions](#key-business-questions)
+5. [Dataset Description](#dataset-description)
+6. [Data Structure and Mapping](#data-structure-and-mapping)
+7. [Data Preparation Process](#data-preparation-process)
+8. [KPI Development](#kpi-development)
+9. [KPI Results Summary](#kpi-results-summary)
+10. [Data Analysis Method](#data-analysis-method)
+11. [Key Insights](#key-insights)
+12. [Business Recommendations](#business-recommendations)
+13. [Dashboard](#dashboard)
+14. [Project Files Structure](#project-files-structure)
+15. [Business Analyst Skills Demonstrated](#business-analyst-skills-demonstrated)
+16. [Business Value Delivered](#business-value-delivered)
+17. [Project Outcome](#project-outcome)
+18. [Portfolio Purpose](#portfolio-purpose)
+19. [Contact Information](#contact-information)
 
 ## 👤 Analyst Information
+- **Name:** Haruna Ademoye
+- **Role:** Business Analyst
+- **Tools Used:**
+  - Microsoft Excel (Data Cleaning, Analysis, Dashboard)
+  - Power BI (Data Visualization)
+  - SQL (Planned)
+
+## 📌 Executive Summary
+Prime Mart Lagos operates three retail stores located in Ikeja, Lekki, and Yaba.
+
+**Management experienced:**
+- Revenue fluctuations
+- Increasing operating costs
+- Inventory stockouts
+- Uneven store performance
+
+This project analyzes business performance and provides data-driven recommendations to improve profitability.
+
+## 🧠 Business Problem
+The company lacks visibility into:
+- Store profitability
+- Product performance
+- Cost efficiency
+- Inventory risk
+
+This limits management’s ability to make informed decisions.
+
+## 🎯 Business Objectives
+| Objective                     | Purpose                          |
+|-------------------------------|----------------------------------|
+| Analyze revenue and profit    | Identify best performing stores  |
+| Analyze product performance    | Improve product strategy         |
+| Analyze customer segments     | Improve targeting                |
+| Analyze inventory             | Reduce stockouts                 |
+| Analyze expenses              | Improve profitability            |
+
+## ❓ Key Business Questions
+Examples:
+- **Which store generates the highest profit?**
+
+👉 **YOUR ANSWER:**  
+*WRITE YOUR ACTUAL RESULT HERE*  
+*Example: Lekki generates highest profit ₦XXXX*
+
+## 📊 Dataset Description
+- **Source:** Excel Generated Dataset
+- **Records:** *ENTER NUMBER OF ROWS*  
+  *Example: 5,000 records*
+- **Period:** *ENTER DATE RANGE*  
+  *Example: Jan 2023 – Dec 2024*
+
+## 🗂️ Data Structure and Mapping
+**Star Schema Model Used:**
+
+- **Fact Table:**
+  - Sales
+
+- **Dimension Tables:**
+  - Customers
+  - Products
+  - Store
+  - Date
+
+## 🔧 Data Preparation Process
+Performed using Microsoft Excel.
+
+**Tasks completed:**
+- ✅ Removed duplicates  
+  *Number removed: ENTER NUMBER*
+- Created calculated columns:  
+  *Example: Profit = Revenue – Cost*
+
+## 📈 KPI Development
+**KPIs created:**
+- Total Revenue
+- Total Profit
+- Profit Margin
+
+## 📊 KPI Results Summary
+⭐ **VERY IMPORTANT SECTION**  
+*Fill with YOUR REAL NUMBERS*
+
+| KPI                | Result      |
+|--------------------|-------------|
+| Total Revenue      | ₦           |
+| Total Profit       | ₦           |
+| Profit Margin      | %           |
+| Best Store         |             |
+| Worst Store        |             |
+
+## 📊 Data Analysis Method
+**Analysis performed using Excel:**
+- Pivot Tables
+- Pivot Charts
+- Excel Dashboard
+
+**Power BI:**
+- Imported Excel Model
+- Built interactive dashboard
+
+## 📉 Key Insights
+⭐ **WRITE YOUR REAL ANALYSIS**
 
-**Name:** Haruna Ademoye  
-**Role:** Business Analyst  
-**Project Type:** Retail Business Performance Analysis  
-**Tools Used:** Microsoft Excel, Power BI (Planned), SQL (Planned)  
-**Project Repository:** Prime Mart Lagos Analysis  
+Example format:
+- **Insight 1:**  
+  WRITE HERE  
+  *Example: Lekki generates highest revenue ₦XXXX representing XX%*
 
----
+- **Insight 2:**  
+  WRITE HERE
 
-# 📌 1. Executive Summary
+- **Insight 3:**  
+  WRITE HERE
 
-Prime Mart Lagos operates three retail stores located in Ikeja, Lekki, and Yaba. Management has observed fluctuations in revenue, rising operating costs, frequent inventory stockouts, and uneven performance across store locations.
+## 💡 Business Recommendations
+Based on analysis:
+- **Recommendation 1:**  
+  WRITE HERE  
+  *Expected impact:* WRITE HERE
 
-The purpose of this project is to analyze business operations, identify performance issues, and provide data-driven recommendations to improve profitability and operational efficiency.
+- **Recommendation 2:**  
+  WRITE HERE
 
-This project demonstrates my ability to apply Business Analysis skills to solve real business problems.
+## 📊 Dashboard
+**Excel Dashboard Preview**  
+*INSERT IMAGE:*  
+`dashboard/dashboard.png`
 
----
+**Power BI Dashboard Preview**  
+*INSERT IMAGE:*  
+`dashboard/powerbi.png`
 
-# 🧠 2. Business Problem
+**Power BI File:**  
+`dashboard/dashboard.pbix`
 
-Management is facing the following key challenges:
+## 📁 Project Files Structure
 
-• Inconsistent revenue across stores  
-• Increasing operating expenses  
-• Frequent stockouts of fast-moving products  
-• Uneven store performance  
-
-These issues affect profitability, operational efficiency, and business growth.
-
----
-
-# 🎯 3. Business Objectives
-
-The main objectives of this analysis are:
-
-| Objective | Business Purpose |
-|----------|------------------|
-| Analyze revenue and profit performance | Identify best and worst performing stores |
-| Identify high and low performing products | Improve product strategy |
-| Evaluate customer segment contribution | Improve customer targeting |
-| Assess inventory efficiency | Reduce stockouts |
-| Analyze operating expenses | Improve cost control |
-| Identify improvement opportunities | Increase overall profitability |
-
----
-
-# ❓ 4. Key Business Questions
-
-This project answers the following business questions:
-
-1. Which store generates the highest revenue?
-2. Which store generates the highest profit?
-3. Which store is underperforming?
-4. Which products generate the most profit?
-5. Which products frequently stock out?
-6. How do expenses affect profitability?
-7. What areas require operational improvement?
-
----
-
-# 📊 5. Dataset Description
-
-The dataset contains retail transaction and operational data.
-
-| Column | Description |
-|-------|-------------|
-| Date | Transaction date |
-| Store | Store location |
-| Product | Product name |
-| Category | Product category |
-| Revenue | Sales amount |
-| Cost | Product cost |
-| Profit | Revenue minus Cost |
-| Customer Segment | Customer classification |
-| Inventory Level | Remaining stock |
-| Operating Expense | Store expenses |
-
----
-
-# 🗂️ 6. Data Structure and Mapping
-
-To support accurate analysis and scalable KPI reporting, the dataset was structured using a relational data model based on Star Schema principles commonly used in business intelligence.
-
-This approach improves analysis efficiency and supports dashboard development.
-
----
-
-## 📊 Datasets Used
-
-| Dataset | Description | Business Purpose |
-|--------|-------------|------------------|
-| Sales | Transaction-level sales data | Revenue and profit analysis |
-| Customers | Customer segment information | Customer contribution analysis |
-| Inventory | Product and stock level data | Inventory efficiency and stock risk analysis |
-| Operating Expenses | Store operating cost data | Expense and profitability analysis |
-| Date | Transaction date information | Time-based trend analysis |
-
----
-
-## ⭐ Fact Table
-
-### Sales Table
-
-The central table containing measurable business events.
-
-Key fields include:
-
-• Date  
-• Store  
-• Product  
-• Revenue  
-• Cost  
-• Profit  
-
-This table is used to calculate key business KPIs.
-
----
-
-## 📐 Dimension Tables
-
-These tables provide descriptive business context.
-
-### Customers Dimension
-
-• Customer ID  
-• Customer Segment  
-
----
-
-### Inventory Dimension
-
-• Product  
-• Category  
-• Inventory Level  
-
----
-
-### Expenses Dimension
-
-• Store  
-• Operating Expense  
-
----
-
-### Date Dimension
-
-• Date  
-• Month  
-• Quarter  
-• Year  
-
----
-
-## 🔗 Table Relationships
-
-The relationships between datasets are structured as follows:
-
-| Fact Table | Dimension Table | Relationship |
-|------------|-----------------|--------------|
-| Sales | Customers | Customer Segment |
-| Sales | Inventory | Product |
-| Sales | Operating Expenses | Store |
-| Sales | Date | Date |
-
----
-
-## 🎯 Business Value of Data Model
-
-This structured model enables:
-
-• Accurate KPI calculation  
-
-• Efficient dashboard creation  
-
-• Multi-dimensional performance analysis  
-
-• Scalable business intelligence reporting  
-
-This reflects real-world Business Analyst data structuring practices.
-
----
-
-# 🔧 7. Data Preparation Process
-
-Data cleaning and preparation were performed using Microsoft Excel.
-
-Steps performed:
-
-• Removed duplicate records  
-• Handled missing values  
-• Standardized store names  
-• Verified data accuracy  
-• Created calculated column: Profit  
-• Created calculated column: Profit Margin  
-
-Formula used:
-
-Profit = Revenue − Cost  
-
-Profit Margin = Profit ÷ Revenue  
-
----
-
-# 📈 8. KPI Development
-
-The following Key Performance Indicators (KPIs) were created:
-
-• Total Revenue  
-• Total Profit  
-• Profit Margin  
-• Revenue by Store  
-• Profit by Store  
-• Revenue by Product  
-• Profit by Product  
-• Inventory Levels  
-• Operating Expense Ratio  
-
-These KPIs help evaluate business performance.
-
----
-
-# 📊 9. Data Analysis Method
-
-Analysis was performed using:
-
-• Excel Pivot Tables  
-• Excel Charts  
-• Excel Dashboard  
-
-The analysis focused on:
-
-Store Performance  
-Product Performance  
-Customer Contribution  
-Inventory Risk  
-Cost Structure  
-
----
-
-# 📉 10. Key Insights
-
-(Example – Replace with your real findings after analysis)
-
-• Lekki store generated the highest revenue but also had the highest operating costs  
-
-• Yaba store generated the lowest profit  
-
-• A small number of products generated most of the profit  
-
-• Several fast-selling products experienced frequent stockouts  
-
-• High operating expenses reduced overall profitability  
-
----
-
-# 💡 11. Business Recommendations
-
-Based on the analysis, the following recommendations were made:
-
----
-
-## Recommendation 1: Improve Inventory Management
-
-Increase stock levels for fast-selling products.
-
-Expected Impact:
-
-• Reduce stockouts  
-• Increase revenue  
-
----
-
-## Recommendation 2: Reduce Operating Costs
-
-Review and optimize operating expenses in high-cost stores.
-
-Expected Impact:
-
-• Improve profit margin  
-
----
-
-## Recommendation 3: Focus on High-Performing Products
-
-Promote high-profit products.
-
-Expected Impact:
-
-• Increase overall profitability  
-
----
-
-## Recommendation 4: Improve Underperforming Store Performance
-
-Investigate operational inefficiencies.
-
-Expected Impact:
-
-• Improve store performance  
-
----
-
-# 📊 12. Dashboard
-
-The Excel dashboard includes:
-
-• Revenue Overview  
-• Profit Overview  
-• Store Performance  
-• Product Performance  
-• Inventory Analysis  
-
-Dashboard File Location:
-
-/dashboard/dashboard.xlsx  
-
----
-
-# 📁 13. Project Files Structure
 ``
 Prime-Mart-Analysis/
-├── README.md
+│
 ├── data/
 │ └── dataset.xlsx
+│
+├── excel/
+│ └── analysis.xlsx
+│
 ├── dashboard/
 │ ├── dashboard.xlsx
+│ ├── dashboard.pbix
 │ └── dashboard.png
+
 ``
 
----
-# 🧠 14. Business Analyst Skills Demonstrated
+## 🧠 Business Analyst Skills Demonstrated
+**Business Analysis:**
+- Problem Definition
+- KPI Development
+- Insight Generation
 
-This project demonstrates my ability to apply core Business Analysis competencies in solving real business problems.
+**Technical:**
+- Excel
+- Power BI
 
-## Business Analysis Skills
+## 💼 Business Value Delivered
+This project helped identify:  
+*WRITE YOUR VALUE*  
+*Example: Revenue improvement opportunity ₦XXXX*
 
-• Business Problem Definition  
-• Requirements Understanding and Translation  
-• KPI Identification and Development  
-• Business Performance Analysis  
-• Insight Generation and Interpretation  
-• Data-Driven Business Recommendation  
+## 🎯 Project Outcome
+This project demonstrates ability to:
+- Analyze business data
+- Build dashboards
+- Generate insights
+- Support decision making
 
-## Technical and Analytical Skills
+## 📌 Portfolio Purpose
+This portfolio demonstrates my readiness for Business Analyst roles.
 
-• Microsoft Excel  
-• Data Cleaning and Preparation  
-• Pivot Table Analysis  
-• Dashboard Development  
-• Data Visualization  
-
-## Business and Strategic Thinking
-
-• Analytical Thinking  
-• Problem Solving  
-• Business Decision Support  
-• Performance Monitoring  
-
----
-
-# 💼 15. Business Value Delivered
-
-This analysis delivered the following business value:
-
-• Provided clear visibility into revenue and profit performance across stores  
-
-• Identified high-performing and underperforming business areas  
-
-• Highlighted operational inefficiencies affecting profitability  
-
-• Provided actionable, data-driven recommendations for business improvement  
-
-This enables management to make informed, strategic decisions.
-
----
-
-# 🎯 16. Project Outcome
-
-Through this project, I demonstrated my ability to:
-
-• Understand and define business problems  
-
-• Analyze and interpret business data  
-
-• Develop meaningful KPIs  
-
-• Generate actionable business insights  
-
-• Communicate findings effectively  
-
-• Provide business recommendations that support decision-making  
-
----
-
-# 📌 17. Portfolio Purpose
-
-This project is part of my Business Analyst Portfolio, developed to demonstrate practical Business Analysis skills using real-world business scenarios.
-
-It reflects my ability to apply analytical thinking, business understanding, and data analysis to support organizational decision-making.
-
----
-
-# 📬 18. Contact Information
-
-**Haruna Ademoye**  
-Business Analyst  
-
-GitHub: https://github.com/yourusername  
-
-LinkedIn: https://linkedin.com/in/yourprofile  
-
-Email: your@email.com  
-
----
+## 📬 Contact Information
+- **Haruna Ademoye**
+- **GitHub:** [ADD YOUR LINK]
+- **LinkedIn:** [ADD YOUR LINK]
+- **Email:** [ADD YOUR EMAIL]
