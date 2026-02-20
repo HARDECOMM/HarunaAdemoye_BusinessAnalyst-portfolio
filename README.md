@@ -84,7 +84,110 @@ The dataset contains retail transaction and operational data.
 
 ---
 
-# 🔧 6. Data Preparation Process
+# 🗂️ 6. Data Structure and Mapping
+
+To support accurate analysis and scalable KPI reporting, the dataset was structured using a relational data model based on Star Schema principles commonly used in business intelligence.
+
+This approach improves analysis efficiency and supports dashboard development.
+
+---
+
+## 📊 Datasets Used
+
+| Dataset | Description | Business Purpose |
+|--------|-------------|------------------|
+| Sales | Transaction-level sales data | Revenue and profit analysis |
+| Customers | Customer segment information | Customer contribution analysis |
+| Inventory | Product and stock level data | Inventory efficiency and stock risk analysis |
+| Operating Expenses | Store operating cost data | Expense and profitability analysis |
+| Date | Transaction date information | Time-based trend analysis |
+
+---
+
+## ⭐ Fact Table
+
+### Sales Table
+
+The central table containing measurable business events.
+
+Key fields include:
+
+• Date  
+• Store  
+• Product  
+• Revenue  
+• Cost  
+• Profit  
+
+This table is used to calculate key business KPIs.
+
+---
+
+## 📐 Dimension Tables
+
+These tables provide descriptive business context.
+
+### Customers Dimension
+
+• Customer ID  
+• Customer Segment  
+
+---
+
+### Inventory Dimension
+
+• Product  
+• Category  
+• Inventory Level  
+
+---
+
+### Expenses Dimension
+
+• Store  
+• Operating Expense  
+
+---
+
+### Date Dimension
+
+• Date  
+• Month  
+• Quarter  
+• Year  
+
+---
+
+## 🔗 Table Relationships
+
+The relationships between datasets are structured as follows:
+
+| Fact Table | Dimension Table | Relationship |
+|------------|-----------------|--------------|
+| Sales | Customers | Customer Segment |
+| Sales | Inventory | Product |
+| Sales | Operating Expenses | Store |
+| Sales | Date | Date |
+
+---
+
+## 🎯 Business Value of Data Model
+
+This structured model enables:
+
+• Accurate KPI calculation  
+
+• Efficient dashboard creation  
+
+• Multi-dimensional performance analysis  
+
+• Scalable business intelligence reporting  
+
+This reflects real-world Business Analyst data structuring practices.
+
+---
+
+# 🔧 7. Data Preparation Process
 
 Data cleaning and preparation were performed using Microsoft Excel.
 
@@ -105,7 +208,7 @@ Profit Margin = Profit ÷ Revenue
 
 ---
 
-# 📈 7. KPI Development
+# 📈 8. KPI Development
 
 The following Key Performance Indicators (KPIs) were created:
 
@@ -123,7 +226,7 @@ These KPIs help evaluate business performance.
 
 ---
 
-# 📊 8. Data Analysis Method
+# 📊 9. Data Analysis Method
 
 Analysis was performed using:
 
@@ -141,7 +244,7 @@ Cost Structure
 
 ---
 
-# 📉 9. Key Insights
+# 📉 10. Key Insights
 
 (Example – Replace with your real findings after analysis)
 
@@ -157,7 +260,7 @@ Cost Structure
 
 ---
 
-# 💡 10. Business Recommendations
+# 💡 11. Business Recommendations
 
 Based on the analysis, the following recommendations were made:
 
@@ -204,7 +307,7 @@ Expected Impact:
 
 ---
 
-# 📊 11. Dashboard
+# 📊 12. Dashboard
 
 The Excel dashboard includes:
 
@@ -220,7 +323,7 @@ Dashboard File Location:
 
 ---
 
-# 📁 12. Project Files Structure
+# 📁 13. Project Files Structure
 ``
 Prime-Mart-Analysis/
 ├── README.md
@@ -232,7 +335,7 @@ Prime-Mart-Analysis/
 ``
 
 ---
-# 🧠 13. Business Analyst Skills Demonstrated
+# 🧠 14. Business Analyst Skills Demonstrated
 
 This project demonstrates my ability to apply core Business Analysis competencies in solving real business problems.
 
@@ -262,7 +365,7 @@ This project demonstrates my ability to apply core Business Analysis competencie
 
 ---
 
-# 💼 14. Business Value Delivered
+# 💼 15. Business Value Delivered
 
 This analysis delivered the following business value:
 
@@ -278,7 +381,7 @@ This enables management to make informed, strategic decisions.
 
 ---
 
-# 🎯 15. Project Outcome
+# 🎯 16. Project Outcome
 
 Through this project, I demonstrated my ability to:
 
@@ -296,7 +399,7 @@ Through this project, I demonstrated my ability to:
 
 ---
 
-# 📌 16. Portfolio Purpose
+# 📌 17. Portfolio Purpose
 
 This project is part of my Business Analyst Portfolio, developed to demonstrate practical Business Analysis skills using real-world business scenarios.
 
@@ -304,7 +407,7 @@ It reflects my ability to apply analytical thinking, business understanding, and
 
 ---
 
-# 📬 17. Contact Information
+# 📬 18. Contact Information
 
 **Haruna Ademoye**  
 Business Analyst  
