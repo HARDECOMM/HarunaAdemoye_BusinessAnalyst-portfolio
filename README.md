@@ -67,6 +67,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
+``
 <h2 id="business-objectives">🎯 Business Objectives</h2>
 | Objective | Business Purpose |
 |----------|------------------|
@@ -77,8 +78,10 @@ These issues limit informed decision-making and affect profitability.
 | Analyze operating expenses | Improve cost control |
 | Identify operational improvement opportunities | Increase overall profitability |
 
+``
 ---
 
+``
 <h2 id="key-business-questions">❓ Key Business Questions</h2>
 | Business Objective | Example Question |
 |-------------------|----------------|
@@ -88,9 +91,10 @@ These issues limit informed decision-making and affect profitability.
 | Assess inventory efficiency | Which products are frequently out-of-stock? |
 | Analyze operating expenses | How do expenses affect store profitability? |
 | Identify operational improvement opportunities | What processes or stores require operational improvement? |
-
+``
 ---
 
+``
 <h2 id="dataset-description">📊 Dataset Description</h2>
 | Dataset | Description | Business Purpose |
 |--------|-------------|----------------|
@@ -99,7 +103,7 @@ These issues limit informed decision-making and affect profitability.
 | Inventory | Product stock levels | Inventory efficiency and stock risk analysis |
 | Operating Expenses | Store operating costs | Cost and profitability analysis |
 | Date | Transaction date information | Time-based trend analysis |
-
+``
 ---
 
 <h2 id="data-structure-and-mapping">⛪ Data Structure and Mapping</h2>
@@ -121,6 +125,7 @@ Key metrics:
 - **Expenses**: Store ID, Operating Expenses  
 - **Date**: Date, Month, Quarter, Year  
 
+``
 <h3 id="table-relationships">🔄 Table Relationships</h3>
 | From | To | Relationship |
 |-----|----|--------------|
@@ -128,6 +133,7 @@ Key metrics:
 | Sales | Inventory | product_id |
 | Sales | Expenses | store_id |
 | Sales | Date | date |
+``
 
 <h3 id="business-value-of-data-model">🎯 Business Value of Data Model</h3>
 - Accurate KPI calculation  
@@ -161,6 +167,7 @@ KPIs created include:
 
 ---
 
+``
 <h2 id="kpi-results-summary">📊 KPI Results Summary</h2>
 | KPI | Result |
 |-----|--------|
@@ -170,6 +177,7 @@ KPIs created include:
 | Best Store |  |
 | Worst Store |  |
 
+``
 ---
 
 <h2 id="data-analysis-method">📊 Data Analysis Method</h2>
@@ -229,15 +237,13 @@ File Location: `/dashboard/dashboard.xlsx`
 
 <h2 id="project-files-structure">📁 Project Files Structure</h2>
 
-``
-Prime-Mart-Analysis/
+``Prime-Mart-Analysis/
 ├── README.md
 ├── data/
 │ └── dataset.xlsx
 ├── dashboard/
 │ ├── dashboard.xlsx
 │ └── dashboard.png
-
 ``
 ---
 
@@ -274,8 +280,11 @@ Demonstrates readiness for Business Analyst roles with practical retail business
 
 ---
 
+``
 <h2 id="contact-information">📬 Contact Information</h2>
 **Haruna Ademoye**  
 - GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - Email: your@email.com
+
+``
