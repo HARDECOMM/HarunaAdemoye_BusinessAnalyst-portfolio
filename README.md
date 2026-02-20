@@ -5,7 +5,7 @@
 3. [Objectives](#objectives)
 4. [Business Questions](#business-questions)
 5. [Dataset Description](#dataset-description)
-6. [Data Structure and Mapping](#data-structure-and-mapping) ← NEW
+6. [Data Structure and Mapping](#data-structure-and-mapping)
 7. [Data Preparation](#data-preparation)
 8. [KPI Development](#kpi-development)
 9. [Data Analysis](#data-analysis)
