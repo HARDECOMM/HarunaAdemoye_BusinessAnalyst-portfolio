@@ -89,7 +89,7 @@ These questions are derived from the objectives:
 
 ---
 
-<h2 id="analyst-information">## 📊 Dataset Description</h2>
+<h2 id="dataset-description">## 📊 Dataset Description</h2>
 | Dataset | Description | Business Purpose |
 |--------|-------------|----------------|
 | Sales | Transaction-level sales records | Revenue and profit analysis |
@@ -100,7 +100,7 @@ These questions are derived from the objectives:
 
 ---
 
-<h2 id="analyst-information">## ⛪ Data Structure and Mapping</h2>
+<h2 id="data-structure-and-mapping">## ⛪ Data Structure and Mapping</h2>
 Understanding the data structure is essential for accurate analysis and KPI development.
 
 ### 🔗 Data Model Design
