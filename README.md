@@ -1,3 +1,81 @@
+# ✅ FINAL STRUCTURE WILL LOOK LIKE THIS
+
+1. [Executive Summary](#executive-summary)
+2. [Business Problem](#business-problem)
+3. [Objectives](#objectives)
+4. [Business Questions](#business-questions)
+5. [Dataset Description](#dataset-description)
+6. [Data Structure and Mapping](#data-structure-and-mapping) ← NEW
+7. [Data Preparation](#data-preparation)
+8. [KPI Development](#kpi-development)
+9. [Data Analysis](#data-analysis)
+10. [Insights](#insights)
+11. [Recommendations](#recommendations)
+12. [Dashboard](#dashboard)
+13. [Project Files](#project-files)
+14. [Skills Demonstrated](#skills-demonstrated)
+15. [Business Value](#business-value)
+16. [Project Outcome](#project-outcome)
+17. [Portfolio Purpose](#portfolio-purpose)
+18. [Contact](#contact)
+
+---
+
+## Executive Summary
+<!-- Content for Executive Summary -->
+
+## Business Problem
+<!-- Content for Business Problem -->
+
+## Objectives
+<!-- Content for Objectives -->
+
+## Business Questions
+<!-- Content for Business Questions -->
+
+## Dataset Description
+<!-- Content for Dataset Description -->
+
+## Data Structure and Mapping
+<!-- Content for Data Structure and Mapping -->
+
+## Data Preparation
+<!-- Content for Data Preparation -->
+
+## KPI Development
+<!-- Content for KPI Development -->
+
+## Data Analysis
+<!-- Content for Data Analysis -->
+
+## Insights
+<!-- Content for Insights -->
+
+## Recommendations
+<!-- Content for Recommendations -->
+
+## Dashboard
+<!-- Content for Dashboard -->
+
+## Project Files
+<!-- Content for Project Files -->
+
+## Skills Demonstrated
+<!-- Content for Skills Demonstrated -->
+
+## Business Value
+<!-- Content for Business Value -->
+
+## Project Outcome
+<!-- Content for Project Outcome -->
+
+## Portfolio Purpose
+<!-- Content for Portfolio Purpose -->
+
+## Contact
+<!-- Content for Contact -->
+
+
 # Business Analyst Portfolio Project  
 # Prime Mart Lagos – Business Performance Analysis
 
