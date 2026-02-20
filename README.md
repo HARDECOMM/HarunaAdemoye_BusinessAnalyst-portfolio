@@ -29,7 +29,7 @@
 ---
 <!-- Content for Executive Summary -->
 
-## 👤 Analyst Information
+<h2 id="analyst-information">## 👤 Analyst Information</h2>
 - **Name:** Haruna Ademoye  
 - **Role:** Business Analyst  
 - **Project Type:** Retail Business Performance Analysis  
@@ -37,7 +37,7 @@
 
 ---
 
-## 📌 Executive Summary
+<h2 id="executive-summary">## 📌 Executive Summary</h2>
 Prime Mart Lagos operates three retail stores located in Ikeja, Lekki, and Yaba.  
 
 Management has observed:  
@@ -50,7 +50,7 @@ This project analyzes business operations, identifies performance issues, and pr
 
 ---
 
-## 🧠 Business Problem
+<h2 id="business-problem">## 🧠 Business Problem</h2>
 Management is facing the following key challenges:  
 
 - Inconsistent revenue across stores  
@@ -62,7 +62,7 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## 🎯 Business Objectives
+<h2 id="business-objectives">## 🎯 Business Objectives</h2>
 | Objective | Business Purpose |
 |----------|------------------|
 | Analyze revenue and profit performance | Identify best and worst performing stores |
@@ -74,7 +74,8 @@ These issues limit informed decision-making and affect profitability.
 
 ---
 
-## ❓ Key Business Questions
+<h2 id="key-business-questions">## ❓ Key Business Questions</h2>
+
 These questions are derived from the objectives:
 
 | Business Objective | Example Question |
@@ -88,7 +89,7 @@ These questions are derived from the objectives:
 
 ---
 
-## 📊 Dataset Description
+<h2 id="analyst-information">## 📊 Dataset Description</h2>
 | Dataset | Description | Business Purpose |
 |--------|-------------|----------------|
 | Sales | Transaction-level sales records | Revenue and profit analysis |
@@ -99,7 +100,7 @@ These questions are derived from the objectives:
 
 ---
 
-## 🗂️ Data Structure and Mapping
+<h2 id="analyst-information">## ⛪ Data Structure and Mapping</h2>
 Understanding the data structure is essential for accurate analysis and KPI development.
 
 ### 🔗 Data Model Design
